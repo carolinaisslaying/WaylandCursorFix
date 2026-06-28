@@ -2,7 +2,7 @@
   "required": true,
   "minVersion": "0.8",
   "package": "icu.carolinainthe.waylandcursorfix.mixin",
-  "compatibilityLevel": "JAVA_17",
+  "compatibilityLevel": "JAVA_21",
   "refmap": "waylandcursorfix.refmap.json",
   "client": [
     "MouseHandlerMixin"
